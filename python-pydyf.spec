@@ -1,6 +1,6 @@
 Name:		python-pydyf
 Version:	0.12.1
-Release:	1
+Release:	2
 Summary:	A low-level PDF generator
 License:	BSD-3-Clause
 Group:		Development/Python
